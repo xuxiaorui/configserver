@@ -6,8 +6,6 @@ spring:
       server:
         git:
           uri: https://github.com/xuxiaorui/configserver.git
-          password: Xxr*#!2017
-          username: xuxiaorui
 
 server:
   port: 8888
